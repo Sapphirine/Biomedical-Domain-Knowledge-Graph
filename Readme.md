@@ -2,8 +2,8 @@
 
 This project crawling data related to biochemical and uses knowledge graph to store the data.
 
-#### YuchenLiu yl3733@columbia.edu, https://github.com/YuchenLiuColumbia
-#### YuekunGuo yg2519@columbia.edu
+#### [**Yuchen Liu**](https://github.com/YuchenLiuColumbia)<br> yl3733@columbia.edu,
+#### [**Yuekun Guo**](https://github.com/ykwen)<br> yg2519@columbia.edu
 
 ## The crawling folder contains codes crawling from websites.
 
