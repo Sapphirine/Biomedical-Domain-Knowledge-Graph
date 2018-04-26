@@ -1,0 +1,16 @@
+{
+    "abstract":"dbo",
+    "birthDate":"dbo",
+    "birthPlace":"dbo",
+    "almaMater":"dbo",
+    "field":"dbo",
+    "city":"dbo",
+    "state":"dbo",
+    "type":"dbo",
+    "country":"dbp",
+    "homepage":"foaf",
+    "subject":"dct",
+    "label":"rdfs",
+    "wikiPageExternalLink":"dbo",
+    "isPrimaryTopicOf":"foaf"
+}

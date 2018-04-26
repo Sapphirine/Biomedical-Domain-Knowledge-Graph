@@ -1,0 +1,5 @@
+{
+    "Person":["abstract","type","birthDate","birthPlace","label","field","homepage","almaMater"],
+    "University":["abstract","type","state","city","label","homepage","country"],
+    "Thing":["abstract","label","wikiPageExternalLink","subject","isPrimaryTopicOf"]
+}
