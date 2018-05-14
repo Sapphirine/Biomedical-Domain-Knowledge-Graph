@@ -1,8 +1,14 @@
 # Data Crawling part
 
-The first branch of code is using recursion of Beautifulsoup. Working well since, however couldn't deal with non-ASCII code names (no idea why it's happening, for they are not supposed to appear in the url). Working on it, and soon would release new version.
+The data crawler of wiki and google scholar is shown in the dictionary.
 
-However, lots of data has been crawled using this way.
+I didn't include scrapy framework in this file, for they are not mainly used in google scholar crawling or wiki crawling, which is the main part of our work.
 
-See example for details. It's could be easy orgnizing a graph using [key word detection] in explanation matching with file names.
+# Wikipedia
+
+We are using BFS + key word detection to organize URLs, and store the fetched data into MongoDB
+
+# Google Scholar
+
+A Tor + Selenium environment must be built, so that the crawler could work under the agent pool with usually-changing IP address. 
 
