@@ -8,3 +8,5 @@ This project crawling data related to biochemical and uses knowledge graph to st
 ## The crawling folder contains codes crawling from websites.
 
 ## The graph folder contains codes merging things together into a graph.
+
+The youtube link of our demo could be found at: youtu.be/sLnF-YUjLJM
